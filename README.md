@@ -16,4 +16,4 @@ With vBundle
 Bundle "iadept/vim-gtranslate"
 </pre>
 ##Use
-Use :Gtranslate command
+Use :GTranslate command
